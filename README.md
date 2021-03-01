@@ -1,5 +1,4 @@
 # maven-project
 
-Simple Maven Project
+Simple Maven Project conflict
 
-This is the release branch created by Me Serge
