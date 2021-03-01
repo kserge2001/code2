@@ -29,7 +29,7 @@
     </site>
   </distributionManagement>
 
- <build>
+
     
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
