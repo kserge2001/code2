@@ -28,15 +28,13 @@
       <url>file:///tmp/maven-project-site</url>
     </site>
   </distributionManagement>
-   <build>      
-     
+   <plugin>     
          <artifactId>maven-compiler-plugin</artifactId>
         <configuration>
           <source>1.6</source>
           <target>1.6</target>
         </configuration>
-     
-   </build>
+   </plugin>
       <plugin>
         <artifactId>maven-release-plugin</artifactId>
         <configuration>
